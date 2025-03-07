@@ -59,7 +59,7 @@ Upon running the script, the following processes occur:
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0.
 
 ## Contact
 For any queries or suggestions, feel free to open an issue on this repository!
